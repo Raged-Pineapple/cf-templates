@@ -10,11 +10,8 @@ signed main() {
    ios::sync_with_stdio(false);cin.tie(NULL);
    string s;
    cin>>s;
-   int val = 0;
-   val = (int)s[0];
-   if(val>97){
-   	val-=32;
+   if (s[0] >= 'a' && s[0] <= 'z') {
+      s[0] -= 32;
    }
-   s[0] = (char)val;
    cout<<s<<endl;
 }
