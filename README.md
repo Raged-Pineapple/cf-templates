@@ -11,6 +11,7 @@ https://takeuforward.org/interview-experience/strivers-cp-sheet/
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raged-Pineapple/cf-templates/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Raged-Pineapple/cf-templates/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -19,6 +20,7 @@ https://takeuforward.org/interview-experience/strivers-cp-sheet/
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Raged-Pineapple/cf-templates/tree/master/0076-minimum-window-substring) |
+| [0202-happy-number](https://github.com/Raged-Pineapple/cf-templates/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -27,4 +29,8 @@ https://takeuforward.org/interview-experience/strivers-cp-sheet/
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Raged-Pineapple/cf-templates/tree/master/0076-minimum-window-substring) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Raged-Pineapple/cf-templates/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
