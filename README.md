@@ -6,6 +6,7 @@ https://takeuforward.org/interview-experience/strivers-cp-sheet/
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Raged-Pineapple/cf-templates/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raged-Pineapple/cf-templates/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Two Pointers
 |  |
@@ -49,4 +50,8 @@ https://takeuforward.org/interview-experience/strivers-cp-sheet/
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/Raged-Pineapple/cf-templates/tree/master/0801-is-graph-bipartite) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/Raged-Pineapple/cf-templates/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
