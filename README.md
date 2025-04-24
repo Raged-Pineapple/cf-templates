@@ -8,6 +8,7 @@ https://takeuforward.org/interview-experience/strivers-cp-sheet/
 | ------- |
 | [0134-gas-station](https://github.com/Raged-Pineapple/cf-templates/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Raged-Pineapple/cf-templates/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Raged-Pineapple/cf-templates/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +43,7 @@ https://takeuforward.org/interview-experience/strivers-cp-sheet/
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/Raged-Pineapple/cf-templates/tree/master/0801-is-graph-bipartite) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Raged-Pineapple/cf-templates/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Union Find
 |  |
 | ------- |
@@ -54,4 +56,8 @@ https://takeuforward.org/interview-experience/strivers-cp-sheet/
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Raged-Pineapple/cf-templates/tree/master/0134-gas-station) |
+## Matrix
+|  |
+| ------- |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Raged-Pineapple/cf-templates/tree/master/1171-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
