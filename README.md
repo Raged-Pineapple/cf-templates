@@ -39,10 +39,12 @@ https://takeuforward.org/interview-experience/strivers-cp-sheet/
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/Raged-Pineapple/cf-templates/tree/master/0801-is-graph-bipartite) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Raged-Pineapple/cf-templates/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/Raged-Pineapple/cf-templates/tree/master/0801-is-graph-bipartite) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Raged-Pineapple/cf-templates/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Raged-Pineapple/cf-templates/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Union Find
 |  |
@@ -52,6 +54,7 @@ https://takeuforward.org/interview-experience/strivers-cp-sheet/
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/Raged-Pineapple/cf-templates/tree/master/0801-is-graph-bipartite) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Raged-Pineapple/cf-templates/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Greedy
 |  |
 | ------- |
@@ -60,4 +63,16 @@ https://takeuforward.org/interview-experience/strivers-cp-sheet/
 |  |
 | ------- |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Raged-Pineapple/cf-templates/tree/master/1171-shortest-path-in-binary-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Raged-Pineapple/cf-templates/tree/master/0803-cheapest-flights-within-k-stops) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Raged-Pineapple/cf-templates/tree/master/0803-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Raged-Pineapple/cf-templates/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
