@@ -55,6 +55,7 @@ https://takeuforward.org/interview-experience/strivers-cp-sheet/
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/Raged-Pineapple/cf-templates/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Raged-Pineapple/cf-templates/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Raged-Pineapple/cf-templates/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Greedy
 |  |
 | ------- |
@@ -67,6 +68,7 @@ https://takeuforward.org/interview-experience/strivers-cp-sheet/
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Raged-Pineapple/cf-templates/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Raged-Pineapple/cf-templates/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -75,4 +77,5 @@ https://takeuforward.org/interview-experience/strivers-cp-sheet/
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Raged-Pineapple/cf-templates/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Raged-Pineapple/cf-templates/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
